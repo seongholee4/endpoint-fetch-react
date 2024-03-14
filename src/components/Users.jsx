@@ -11,7 +11,7 @@ const Users = () => {
     }, []);
 
     return (
-        <div>
+        <div className="container">
             <h1>Random Users</h1>
             <table>
                 <thead>
